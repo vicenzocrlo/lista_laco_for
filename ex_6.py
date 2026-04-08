@@ -1,4 +1,5 @@
-num = int(input("Digite um número inteiro de sua escolha para realizar a soma: "))
+print("=====Soma dos números de 1 a N=====")
+num = int(input("\tDigite um número inteiro: "))
 
 for i in range(1, num +1):
     soma = 1 + i

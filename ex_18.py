@@ -1,3 +1,4 @@
+print("Descubra os números que são multiplos de 3 e 5 apatir do número de sua preferência")
 num = int(input("Digite o número que você deseja comparar: "))
 
 multiplos = 0

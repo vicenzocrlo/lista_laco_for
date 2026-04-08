@@ -1,4 +1,4 @@
-num = int(input("Digite um número que deseja descobrir a tabuada: "))
+num = int(input("Digite um número que deseja descobrir a tabuada ou se é múltiplo de 3: "))
 
 multiplo =("")
 for i in range(1,11):

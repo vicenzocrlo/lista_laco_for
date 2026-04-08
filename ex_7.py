@@ -1,6 +1,7 @@
+print("==========Tabuada automática============")
 num = int(input("Digite o número que deseja descobrir a tabuada: "))
 
-for i in range(0, 11):
+for i in range(1, 11):
     tabuada = num * i
     print(f"{num} x {i} = {tabuada}")
 

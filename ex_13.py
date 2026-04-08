@@ -1,3 +1,4 @@
+print("=====soma do números pares e ímpares=====")
 num = int(input("Digite o número que deseja somar: "))
 
 par = 0

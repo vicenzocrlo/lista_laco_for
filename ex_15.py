@@ -1,3 +1,4 @@
+print("\nEscolha 10 números para verificar se é positivo, negativo ou zero")
 zero = 0
 positivo = 0 
 negativo = 0

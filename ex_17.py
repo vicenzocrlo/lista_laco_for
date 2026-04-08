@@ -1,4 +1,6 @@
-num = (input("Digite o número que deseja verificar ser par ou impar: "))
+print("====Calculadora de paridade dos números=====")
+
+num = int(input("Digite o número que deseja verificar: "))
 
 for numero in num:
     if numero % 2 == 0:
